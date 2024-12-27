@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: retail
+    database: de-lab-435016 
+
+    tables:
+      - name: raw_invoices
+      - name: country
